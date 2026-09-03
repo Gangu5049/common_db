@@ -1,3 +1,4 @@
 hello welcome to git
 this is my first class
 new class erified
+succesfully completed my 1st class
