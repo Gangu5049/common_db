@@ -1,2 +1,3 @@
 hello welcome to git
 this is my first class
+new class erified
